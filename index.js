@@ -1,3 +1,4 @@
+const getConfig = require('./lib/getConfig')
 const createQuestions = require('./lib/createQuestions')
 
 module.exports = {
