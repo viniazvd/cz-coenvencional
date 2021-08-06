@@ -1,3 +1,4 @@
+const format = require('./lib/format')
 const getConfig = require('./lib/getConfig')
 const createQuestions = require('./lib/createQuestions')
 
