@@ -9,7 +9,7 @@
   "engines": {
     "node": ">=10"
   },
-  "files": [ "./index.js" ],
+  "files": [ "index.js" ],
   "keywords": [
     "commitizen",
     "adapter",
