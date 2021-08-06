@@ -1,4 +1,4 @@
-import createQuestions from './lib/createQuestions'
+const createQuestions = require('./lib/createQuestions')
 
 module.exports = {
   prompter: function({ prompt }, commit) {
