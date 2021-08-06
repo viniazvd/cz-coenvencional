@@ -1,6 +1,6 @@
 {
   "name": "cz-coenvencional",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "author": "Vinicius Azevedo <viniazvd@gmail.com>",
   "license": "MIT",
   "main": "index.js",
