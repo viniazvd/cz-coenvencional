@@ -8,12 +8,6 @@
   "engines": {
     "node": ">=10"
   },
-  "files": [ "index.js" ],
-  "keywords": [
-    "commitizen",
-    "adapter",
-    "emoji"
-  ],
   "dependencies": {
     "chalk": "^2.4.1",
     "commitizen": "^4.0.3",
